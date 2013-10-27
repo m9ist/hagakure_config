@@ -1,0 +1,12 @@
+﻿## Interface: 50400
+## Title: Hagakure DKP Config
+## Notes: Draw gui config for Hagakure DKP addon
+## Author: m9ist
+## Version: 0.0.8
+## Credits: hagakure.su
+## E-mail: kazmin.oleg@gmail.com
+## Dependencies: hagakure
+
+
+localization.ru.lua
+config.lua
